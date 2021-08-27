@@ -1,0 +1,251 @@
+resources:
+   - name: resource_test_1
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_2
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_3
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_4
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_5
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_6
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_7
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_8
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_9
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_10
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_11
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_12
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_13
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_14
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_15
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_16
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_17
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_18
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_19
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_20
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_21
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_22
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_23
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_24
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_25
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_26
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_27
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_28
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_29
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_30
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_31
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_32
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_33
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_34
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_35
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_36
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_37
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_38
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_39
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_40
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_41
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_42
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_43
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_44
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_45
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_46
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_47
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_48
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_49
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
+   - name: resource_test_50
+     type: GitRepo
+     configuration:
+       gitProvider: raksha78_bbs            
+       path: ~RAKSHITHAGR/pipelinestest
